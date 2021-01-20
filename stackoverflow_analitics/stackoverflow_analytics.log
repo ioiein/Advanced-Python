@@ -1,0 +1,20 @@
+INFO: process XML dataset, ready to serve queries
+DEBUG: got query "2008,2008,20"
+DEBUG: got query "2008,2009,4"
+DEBUG: got query "2008,2010,10"
+DEBUG: got query "2009,2009,30"
+WARNING: not enough data to answer, found 0 words out of 30 for period "2009,2009"
+DEBUG: got query "2008,2020,10"
+INFO: finish processing queries
+INFO: process XML dataset, ready to serve queries
+DEBUG: got query "2008,2008,20"
+DEBUG: got query "2008,2009,4"
+DEBUG: got query "2008,2010,10"
+DEBUG: got query "2009,2009,30"
+WARNING: not enough data to answer, found 0 words out of 30 for period "2009,2009"
+DEBUG: got query "2008,2020,10"
+INFO: finish processing queries
+INFO: process XML dataset, ready to serve queries
+DEBUG: got query "2019,2019,2"
+DEBUG: got query "2019,2020,4"
+INFO: finish processing queries

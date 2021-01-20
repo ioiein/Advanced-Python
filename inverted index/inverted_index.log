@@ -1,0 +1,33 @@
+2020-12-12 17:59:48 inverted_index DEBUG Namespace(callback=<function callback_query at 0x7f2513d41f80>, input='small.index', query=None, query_file=<_io.TextIOWrapper name='queries_cp1251.txt' mode='r' encoding='cp1251'>)
+2020-12-12 17:59:48 inverted_index INFO read queries from <_io.TextIOWrapper name='queries_cp1251.txt' mode='r' encoding='cp1251'>
+2020-12-12 17:59:48 inverted_index INFO load inverted index from filepath small.index
+2020-12-12 17:59:48 inverted_index DEBUG query inverted index with request ['two', 'words']
+2020-12-12 17:59:48 inverted_index DEBUG use the following query to run against InvertedIndex: two words
+2020-12-12 17:59:48 inverted_index DEBUG query inverted index with request ['even', 'more', 'word']
+2020-12-12 17:59:48 inverted_index DEBUG use the following query to run against InvertedIndex: even more word
+2020-12-12 17:59:48 inverted_index DEBUG query inverted index with request ['тестовый', 'запрос']
+2020-12-12 17:59:48 inverted_index DEBUG use the following query to run against InvertedIndex: тестовый запрос
+2020-12-12 17:59:48 inverted_index DEBUG query inverted index with request ['кодировка', 'cp1251']
+2020-12-12 17:59:48 inverted_index DEBUG use the following query to run against InvertedIndex: кодировка cp1251
+2020-12-12 18:28:21 inverted_index DEBUG Namespace(callback=<function callback_query at 0x7fe2c4721f80>, input='small.index', query=None, query_file=<_io.TextIOWrapper name='queries_cp1251.txt' mode='r' encoding='cp1251'>)
+2020-12-12 18:28:21 inverted_index INFO read queries from <_io.TextIOWrapper name='queries_cp1251.txt' mode='r' encoding='cp1251'>
+2020-12-12 18:28:21 inverted_index INFO load inverted index from filepath small.index
+2020-12-12 18:28:21 inverted_index DEBUG query inverted index with request ['two', 'words']
+2020-12-12 18:28:21 inverted_index DEBUG use the following query to run against InvertedIndex: two words
+2020-12-12 18:28:21 inverted_index DEBUG query inverted index with request ['even', 'more', 'word']
+2020-12-12 18:28:21 inverted_index DEBUG use the following query to run against InvertedIndex: even more word
+2020-12-12 18:28:21 inverted_index DEBUG query inverted index with request ['тестовый', 'запрос']
+2020-12-12 18:28:21 inverted_index DEBUG use the following query to run against InvertedIndex: тестовый запрос
+2020-12-12 18:28:21 inverted_index DEBUG query inverted index with request ['кодировка', 'cp1251']
+2020-12-12 18:28:21 inverted_index DEBUG use the following query to run against InvertedIndex: кодировка cp1251
+2020-12-12 18:36:48 inverted_index DEBUG Namespace(callback=<function callback_query at 0x7f2b35001f80>, input='small.index', query=None, query_file=<_io.TextIOWrapper name='queries_cp1251.txt' mode='r' encoding='cp1251'>)
+2020-12-12 18:36:48 inverted_index INFO read queries from <_io.TextIOWrapper name='queries_cp1251.txt' mode='r' encoding='cp1251'>
+2020-12-12 18:36:48 inverted_index INFO load inverted index from filepath small.index
+2020-12-12 18:36:49 inverted_index DEBUG query inverted index with request ['two', 'words']
+2020-12-12 18:36:49 inverted_index DEBUG use the following query to run against InvertedIndex: two words
+2020-12-12 18:36:49 inverted_index DEBUG query inverted index with request ['even', 'more', 'word']
+2020-12-12 18:36:49 inverted_index DEBUG use the following query to run against InvertedIndex: even more word
+2020-12-12 18:36:49 inverted_index DEBUG query inverted index with request ['тестовый', 'запрос']
+2020-12-12 18:36:49 inverted_index DEBUG use the following query to run against InvertedIndex: тестовый запрос
+2020-12-12 18:36:49 inverted_index DEBUG query inverted index with request ['кодировка', 'cp1251']
+2020-12-12 18:36:49 inverted_index DEBUG use the following query to run against InvertedIndex: кодировка cp1251
